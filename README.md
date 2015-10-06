@@ -2,11 +2,11 @@
 
 Time tracking AppleScript for OmniFocus.
 
-Features:
+#Features:
 
-Installation:
+#Installation:
 
-Usage:
+#Usage:
 
 
 
